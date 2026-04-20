@@ -33,9 +33,10 @@
 
 </details>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muzakki839&layout=compact&langs_count=8"/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzakki839&show_icons=true&include_all_commits=true&count_private=true"/>
+<div>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muzakki839&layout=compact&langs_count=8"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzakki839&show_icons=true&include_all_commits=true&count_private=true"/>
+</div>
 
 #### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logoSize=auto&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC5klEQVR4nO3cz4tOURzH8cMxRkr5/WuMjZqSPYWVspA1C5KFhZThP2DnR0nJKGuhhJ0UZetHKWMhO1bKYkrjGfL7rdtc9XjqzDlnxj3Oee7nVbOb+32+993TfX7MdI0REREREREREREDLAJOAs+AKfrXFPAUOAEMpo68AXhJ+4xX557ymdzGyN2xm39m15eLthtNEbq6JrfdkxShO//7LDPQSRFaAIVORKETUehEFLrloSeA08AOYDOwB7gG/KBQOYZ+DqxxzNpV6tvF3EJ/ANZ65h2kQLmFPhswbx7wmsLkFnp34MwrFCa30NsCZ56hMLmFPhA48zaFyS30vYB5K4CPFCa30JX9nhfCmxQox9Bf6z8WLOiZsxq4RaFyDP3HO+A6cLm6pACfKVjOofuKQiei0NO+AG+BV8B74CctCH0eODfDz1XHcQ88x431/P4kcLH6kAQM9Ow8H9gIHAIe0qehrWfeJsdxxzzHrev63eot4sqIc9gJvGEOTNMyDH1qluexqr60KLTxh747x3MZAT4p9AyAxcByM0fAJYVOABgGvit0ArP5N7fWhmb6W8C9wOH6j79LI46N/j7ctC00MABcqD+kdKu+ej0SOGOfQnvUkV1+AdsDZmyNPSnTtJxCA0PAN8/j3wmYsz72pEzTMgt9NODxJwLmLIk9KdO0zEKPBe6wLOA6H8U0LbPQNwJ3GA6YFfUNn2kaeYW+H7jDSMCsqP8DNE0jr9CPAnfYEjBLoV0U+m/WM0+hHQvFsp55Cu1YKJb1zFNox0KxrGeeQjsWimU98xTasVAs65mn0I6FYlnPPIV2LBTLeuYptGOhWNYzT6EdC8WynnkK7VgolvXMU2jHQrGsZ55COxYSFDoZhU5EoRNR6EQUuo9CF3l/jX9sMkVo3WCQNDcYrO4623bHU4QerG+E2lYvgIWNh+66rfF4SyMPJYnc88wera5Xff4C2QEeV5eLZM9kERERERERERGTt98vozsj0hH+/QAAAABJRU5ErkJggg==)](https://linkedin.com/in/muzakki-abdul-aziz-255913258)
